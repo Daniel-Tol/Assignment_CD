@@ -5,3 +5,4 @@ def test_main():
     assert main.cow() == 'MOoooOo!'
     assert main.chicken() == 'Pok! Pok! Pok!'
     assert main.pig() == 'Oink! Oink!'
+    assert main.sheep() == 'Baaaah!'
